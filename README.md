@@ -1,2 +1,2 @@
 # golang-coverage
-A simple docker image containing goverage
+A simple docker image containing goverage and gometalinter.
